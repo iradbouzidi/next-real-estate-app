@@ -50,7 +50,7 @@ const Home = ({ propertiesForSale, propertiesForRent }) => (
       desc2="and more"
       buttonText="Explore Renting"
       linkName="/search?purpose=for-rent"
-      imageUrl="/assets/images/rent.jpg"
+      imageUrl="rent.jpg"
     />
     <Flex flexWrap="wrap">
       {propertiesForRent.map((property) => (
@@ -65,7 +65,7 @@ const Home = ({ propertiesForSale, propertiesForRent }) => (
       desc2=" villas and more"
       buttonText="Explore Buying"
       linkName="/search?purpose=for-sale"
-      imageUrl="/assets/images/buy.jpg"
+      imageUrl="buy.jpg"
     />
     <Flex flexWrap="wrap">
       {propertiesForSale.map((property) => (
