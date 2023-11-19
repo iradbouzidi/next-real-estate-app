@@ -1,6 +1,6 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ["localhost", "next-real-estate-app-client.vercel.app"],
+    domains: ["bayut-production.s3.eu-central-1.amazonaws.com"],
   },
 };
