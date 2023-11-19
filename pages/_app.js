@@ -37,6 +37,3 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp;
-
-// https://www.youtube.com/watch?v=y47gYvXchXM 00:23:00
-// https://github1s.com/adrianhajdin/projects_realestate
